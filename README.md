@@ -4,4 +4,3 @@ Summer Internship Reports:
 A. Summer1_2_Report.pdf
 B. Summer3_Report.pdf
 C. Summer4_Report.doc
-Cetificates:
